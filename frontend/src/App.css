@@ -1,0 +1,23 @@
+.general-container {
+  background: lightgray;
+  padding: unset;
+  min-height: 100vh;
+}
+
+.header-container {
+  background: red;
+  padding: 20px;
+}
+
+.results-container {
+  background: white;
+  margin: 60px auto;
+  padding: 20px;
+}
+
+.result {
+  border: 1px solid black;
+  margin: 15px auto;
+  padding: 10px;
+  max-width: 350px;
+}
