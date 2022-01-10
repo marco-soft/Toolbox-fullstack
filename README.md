@@ -4,8 +4,8 @@
 
 ## Frontend
 
-- Clone this repo in your machin
-- Now change to the backend directory with your terminar or preferred console
+- Clone this repo locally
+- Now, change to the backend directory with your terminal or preferred console
 ```sh
 cd backend
 npm i
